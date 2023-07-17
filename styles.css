@@ -1,1 +1,19 @@
 /* Write your CSS here! */
+body {
+    margin: 200px;
+    padding: 10px;
+    background-color: purple;
+}
+
+h2 {
+    color: white
+}
+    
+
+#mainHeading {
+    background-color: red
+}
+
+.funParagraph {
+    color: green
+}
