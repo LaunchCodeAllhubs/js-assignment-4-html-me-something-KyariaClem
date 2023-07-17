@@ -1,1 +1,20 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    padding: 10px;
+    background-color: purple;
+    color: orange
+}
+
+h2 {
+    color: white
+}
+    
+
+#mainHeading {
+    background-color: red
+}
+
+.testP {
+    color: green
+}
