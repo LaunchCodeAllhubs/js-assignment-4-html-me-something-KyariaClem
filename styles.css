@@ -1,8 +1,9 @@
 /* Write your CSS here! */
 body {
-    margin: 200px;
+    margin: 8px;
     padding: 10px;
     background-color: purple;
+    color: orange
 }
 
 h2 {
@@ -14,6 +15,6 @@ h2 {
     background-color: red
 }
 
-.funParagraph {
+.testP {
     color: green
 }
